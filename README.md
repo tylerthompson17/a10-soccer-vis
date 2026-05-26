@@ -1,5 +1,7 @@
 # A10 Men's Soccer Visualization
 
+<img width="1728" height="2304" alt="Men&#39;sSoccerInfographic" src="https://github.com/user-attachments/assets/db287c36-0cc9-4ae1-8e6f-db73a3ac20f7" />
+
 This project explores the relationship between **team performance** and **scholarship resources** for Atlantic 10 (A10) men's soccer programs.
 
 The analysis uses R to create two visualizations:
